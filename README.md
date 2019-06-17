@@ -1,1 +1,1 @@
-# FortunaBot
+# fortunabot
